@@ -1,4 +1,4 @@
-# 🌍 GeoPulse - Real-time Geopolitical Intelligence Dashboard
+# 🌍 GeoPulse - Real-time Global Intelligence Platform
 
 > **Advanced geospatial intelligence platform for monitoring global events, geopolitical trends, and real-time location data with AI-powered insights**
 
